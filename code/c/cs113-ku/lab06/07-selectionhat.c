@@ -13,12 +13,8 @@ int main()
     int *numbersPtr = &numbers[0];
 
     // initialize array numbers from 1 to num by numbersPtr
-    for (
-i = 0;i<num;i++,numbersPtr++
-) {
-       *numbersPtr =
- i+1
-;
+    for (i = 0;i<num;i++,numbersPtr++) {
+       *numbersPtr = i+1;
     }
 
     // loop through count

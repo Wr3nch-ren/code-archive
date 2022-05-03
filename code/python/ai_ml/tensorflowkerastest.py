@@ -1,7 +1,7 @@
 import tensorflow as tf
 import numpy as np
-from tensorflow.keras import Sequential
-from tensorflow.keras.layers import Dense
+from tensorflow.python.keras import Sequential
+from tensorflow.python.keras.layers import Dense
 
 l0 = Dense(units=1, input_shape=[1])
 model = Sequential([l0])

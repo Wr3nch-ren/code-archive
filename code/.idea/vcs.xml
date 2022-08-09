@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/html_js_css/Tetris-Basic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java/ku-sw-cons/lab/Lab03-class-and-object-2" vcs="Git" />
   </component>
 </project>

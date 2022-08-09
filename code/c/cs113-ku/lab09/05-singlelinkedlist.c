@@ -19,10 +19,7 @@ void printList(node *pList) {
 
 }
 
-void
- insertNode(
-node **pList, int input
-) {
+void insertNode(node **pList, int input) {
     node *new_node, *prev, *tmp;
     
     new_node = (node *)malloc(sizeof(node));
